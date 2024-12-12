@@ -18,3 +18,13 @@ async function randoDog() {
 };
 
 document.addEventListener("DOMContentLoaded", randoDog)
+
+
+
+
+
+const buttonNewDoggo = document.getElementById("newDoggo");
+buttonNewDoggo.addEventListener("click", randoDog);
+
+const hoverButtonNewDoggo = document.getElementById("newDoggo");
+buttonNewDoggo.addEventListener("hover", hoverButton);
