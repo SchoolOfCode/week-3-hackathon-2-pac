@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#bone {
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+}
+
+/* .doggo {
+    justify-content: center;
+} */
