@@ -35,7 +35,7 @@ function clickBark() {
         "Bark1.mp3",
         "Bark2.mp3",
         "Bark3.mp3",
-        "Bark4.mp3",
+        "Bark4.mp3", 
         "Bark5.mp3"
     ];
     
