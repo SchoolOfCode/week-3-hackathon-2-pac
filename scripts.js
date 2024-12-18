@@ -16,7 +16,7 @@ async function randoDog() {
         console.error(`Error fetching data:`, error);
     };
 };
-
+ 
 document.addEventListener("DOMContentLoaded", randoDog)
 
 
